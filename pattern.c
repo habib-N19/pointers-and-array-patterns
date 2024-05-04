@@ -7,7 +7,6 @@ int main()
     pattern=1;
     for(int i=1;i<=(2*input)-1;i++)
     {
-        // ekta line
         for(int j=1;j<=space;j++)
         {
             printf(" ");
@@ -24,7 +23,7 @@ int main()
             
             
         }
-        // line seshe
+       
         if(i<=input-1)
         {
             space--;
